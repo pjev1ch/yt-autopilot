@@ -1,5 +1,2 @@
-flask
-flask-cors
-supabase
-requests
-edge-tts
+[deploy]
+startCommand = "python app.py"
